@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__1</name>
+   <tag></tag>
+   <elementGuidId>f19c0646-fd47-464f-9289-4f49e6f660b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.v-form > div.v-card__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/form/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6bf765f9-b7f4-47be-ba7a-82eaa4e6771d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-card__text</value>
+      <webElementGuid>08f9ef10-70b3-4951-a79f-d3405b74ded9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​ชื่อผู้ติดต่อ ​รายละเอียดการติดต่อ</value>
+      <webElementGuid>213599f1-6f49-4fdf-876f-07d343dee61e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active v-dialog--persistent v-dialog--fullscreen&quot;]/div[@class=&quot;v-card v-sheet theme--light rounded-0&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-card__text&quot;]</value>
+      <webElementGuid>f69d5c01-b00a-452a-8d11-1a9290cddc81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/form/div[2]</value>
+      <webElementGuid>1654b181-988a-4a6f-b95f-c49a45743851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='เพิ่มข้อมูลการติดต่อ'])[1]/following::div[1]</value>
+      <webElementGuid>8956269a-ad35-4918-a95e-283e2d203f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='หน่วยงาน'])[1]/following::div[6]</value>
+      <webElementGuid>8610e519-461d-440c-8fea-4a7edf68d865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/form/div[2]</value>
+      <webElementGuid>c3148620-a2fa-4627-a051-724b6809cdfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '​ชื่อผู้ติดต่อ ​รายละเอียดการติดต่อ' or . = '​ชื่อผู้ติดต่อ ​รายละเอียดการติดต่อ')]</value>
+      <webElementGuid>3466d35e-d34e-41c2-b9be-9e2795463109</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
